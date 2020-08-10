@@ -41,6 +41,5 @@ func coreMLCompletionHandler（request：VNRequest？、error：Error？）{
    let cgimage = multiArray？.cgImage（min：-1、max：1、channel：nil）
 ```
 
-[P.S. I made an iOS app with UGATIT CoreML model of selfie2anime.](https://apps.apple.com/us/app/animateu/id1513582287)
-
-https://apps.apple.com/us/app/animateu/id1513582287
+Apps made by Core ML models.
+[AnimateU](https://apps.apple.com/us/app/animateu/id1513582287)
