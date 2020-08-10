@@ -1,7 +1,10 @@
 # CoreML-Models.
 Models you can use them on iOS.
 
-UGATIT selfie2anime model.:[Google Drive Link](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing)
+UGATIT_selfie2anime:[Google Drive Link](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing)
+AnimeGANv2_Hayao:[Google Drive Link](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing)
+AnimeGANv2_Paprika:[Google Drive Link](https://drive.google.com/file/d/1wuoaVoI8-HOOQ1kUiZkVJ9GWnPbtPnWF/view?usp=sharing)
+
 
 <img width="517" alt="スクリーンショット 2020-05-19 11 09 03" src="https://user-images.githubusercontent.com/23278992/85667417-881d7d00-b6f8-11ea-8d1c-0d66b2b72de9.png">
 
