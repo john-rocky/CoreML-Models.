@@ -10,7 +10,7 @@ AnimeGANv2_Paprika:[Google Drive Link](https://drive.google.com/file/d/1wuoaVoI8
 
 <img width="256" alt="スクリーンショット 2020-05-19 11 09 03" src="https://user-images.githubusercontent.com/23278992/85667417-881d7d00-b6f8-11ea-8d1c-0d66b2b72de9.png">
 
-<img width="256" alt="スクリーンショット 2020-06-22 4 10 54" src="https://user-images.githubusercontent.com/23278992/85667453-91a6e500-b6f8-11ea-84bf-22853b0995dc.png">
+<!-- <img width="256" alt="スクリーンショット 2020-06-22 4 10 54" src="https://user-images.githubusercontent.com/23278992/85667453-91a6e500-b6f8-11ea-84bf-22853b0995dc.png"> -->
 
 How to use in a xcode project.
 
@@ -18,8 +18,8 @@ How to use in a xcode project.
 
 import Vision
 lazy var coreMLRequest:VNCoreMLRequest = {
-   let model = try! VNCoreMLModel(for: ugatit().model)
-   let request = VNCoreMLRequest(model: model, completionHandler: self.coreMLCompletionHandler0)
+   let model = try! VNCoreMLModel(for: modelname().model)
+   let request = VNCoreMLRequest(model: model, completionHandler: self.coreMLCompletionHandler)
    return request
    }()
 
@@ -35,10 +35,10 @@ For visualizing multiArray as image, Mr. Hollance’s “CoreML Helpers” are v
 [Converting from MultiArray to Image with CoreML Helpers.](https://medium.com/@rockyshikoku/converting-from-multiarray-to-image-with-coreml-helpers-59fdc34d80d8)
 
 ```swift:
-func coreMLCompletionHandler0（request：VNRequest？、error：Error？）{
+func coreMLCompletionHandler（request：VNRequest？、error：Error？）{
    let = coreMLRequest.results？.first as！VNCoreMLFeatureValueObservation
    let multiArray = result.featureValue.multiArrayValue
-   let cgimage = multiArray？.cgImage（min：-1、max：1、channel：nil、axes：（3,1,2））
+   let cgimage = multiArray？.cgImage（min：-1、max：1、channel：nil）
 ```
 
 [P.S. I made an iOS app with UGATIT CoreML model of selfie2anime.](https://apps.apple.com/us/app/animateu/id1513582287)
