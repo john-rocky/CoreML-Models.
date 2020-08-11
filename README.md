@@ -7,7 +7,7 @@
 
 **GAN**
 
-[UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing)
+[UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing):1.12GB
 
 [AnimeGANv2_Hayao](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing):8.7MB
 
