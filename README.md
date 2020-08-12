@@ -3,7 +3,7 @@
 
 **Image Classifier**
 | Link | Size | Original Project |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing)
 | 22.7 MB    
 | [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
