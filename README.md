@@ -1,5 +1,5 @@
 # CoreML-Models.
-**Models you can use them on iOS.Google Drive Link.**
+Models you can use them on iOS.
 
 **Image Classifier**
 | Core ML Model Link | Size | Original Project |
@@ -8,7 +8,7 @@
 
 **GAN**
 
-| Core ML Model Link | Size | Original Project |
+| Google Drive Link | Size | Original Project |
 | ------------- | ------------- | ------------- |
 | [UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing) | 1.12GB | [taki0112/UGATIT](https://github.com/taki0112/UGATIT)  |
 | [AnimeGANv2_Hayao](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing)　| 8.7MB | [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)|
