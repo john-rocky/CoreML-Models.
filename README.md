@@ -2,7 +2,7 @@
 Models you can use them on iOS.
 
 **Image Classifier**
-| Core ML Model Link | Size | Original Project |
+| Google Drive Link | Size | Original Project |
 | ------------- | ------------- | ------------- |
 | [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing) | 22.7 MB | [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
 
