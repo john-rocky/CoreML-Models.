@@ -2,17 +2,15 @@
 **Models you can use them on iOS.Google Drive Link.**
 
 **Image Classifier**
-| Link | Size | Original Project |
+| Core ML Model Link | Size | Original Project |
 | ------------- | ------------- | ------------- |
 | [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing) | 22.7 MB | [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
 
 **GAN**
 
-| Link | | Size | Original Project |
-| ------------- | ------------- |
-| [UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing)
-| 1.12GB 
-| [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
+| Core ML Model Link | Size | Original Project |
+| ------------- | ------------- | ------------- |
+| [UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing) | 1.12GB | [taki0112/UGATIT](https://github.com/taki0112/UGATIT)  |
 
 |[AnimeGANv2_Hayao](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing):8.7MB
 
