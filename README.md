@@ -2,16 +2,21 @@
 **Models you can use them on iOS.Google Drive Link.**
 
 **Image Classifier**
-| link | Original Project |
+| Link | | Size | Original Project |
 | ------------- | ------------- |
-| [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing):22.7 MB  | [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
-| 内容セル  | 内容セル  |
+| [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing)
+| 22.7 MB    
+| [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
 
 **GAN**
 
-[UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing):1.12GB
+| Link | | Size | Original Project |
+| ------------- | ------------- |
+| [UGATIT_selfie2anime](https://drive.google.com/file/d/1-2IJyaJJFnCm9UUt_2P4wHUJsr1qmRCk/view?usp=sharing)
+| 1.12GB 
+| [TensorFlowHub](https://tfhub.dev/tensorflow/efficientnet/b0/classification/1)  |
 
-[AnimeGANv2_Hayao](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing):8.7MB
+|[AnimeGANv2_Hayao](https://drive.google.com/file/d/1i_kwj41BxA1xZNu2B7yX2VVqNF66atMN/view?usp=sharing):8.7MB
 
 [AnimeGANv2_Paprika](https://drive.google.com/file/d/1wuoaVoI8-HOOQ1kUiZkVJ9GWnPbtPnWF/view?usp=sharing):8.7MB
 
