@@ -2,7 +2,7 @@
 **Models you can use them on iOS.Google Drive Link.**
 
 **Image Classifier**
-| Link | | Size | Original Project |
+| Link | Size | Original Project |
 | ------------- | ------------- |
 | [Efficientnetb0](https://drive.google.com/file/d/1mJq8SMuDaCQHW77ui3fAfe5o3Qu2GKMi/view?usp=sharing)
 | 22.7 MB    
